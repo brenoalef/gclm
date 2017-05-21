@@ -1,0 +1,5 @@
+Contrast: 0.7109
+Correlation: 0.9527
+Energy: 0.0555
+Homogeneity: 0.7891
+Executions time: 0.007318
