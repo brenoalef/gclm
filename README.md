@@ -5,7 +5,7 @@ The evaluated attributes are: contrast, correlation, energy and homogeneity.
 
 ## Usage
 ```console
-./calculoGLCM.e pgmFile
+./evaluateGLCM.e pgmFile
 ```
 
 GLCM attributes and execution time will be written to *glcmResults.txt*
